@@ -19,7 +19,7 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '憨憨',
+      name: '海的尾声111',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o_yk56ipPNtjRFsGdC2wPOZ8qydw',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '31uGehTZ27ZiMSifMfuirodonAmIHCOmXPEaD8FqsAU',
+  CALLBACK_TEMPLATE_ID: 't4Ng4QXKZCLaKG50cR-Qe-wWGM-gKM-a6Hjxbm7zNlk',
 
   CALLBACK_USERS: [
     {
